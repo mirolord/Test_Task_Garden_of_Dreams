@@ -34,11 +34,11 @@ namespace Heathen.BootstrapExample.Additive
             Debug.Log("Waiting for 3 ...");
             yield return new WaitForSeconds(1f);
 
-            LoadingScreenDisplay.Progress = 0.33f;
+            //LoadingScreenDisplay.Progress = 0.33f;
             Debug.Log("Waiting for 2 ...");
             yield return new WaitForSeconds(1f);
 
-            LoadingScreenDisplay.Progress = 0.66f;
+            //LoadingScreenDisplay.Progress = 0.66f;
             Debug.Log("Waiting for 1 ...");
             yield return new WaitForSeconds(1f);
 
@@ -55,7 +55,7 @@ namespace Heathen.BootstrapExample.Additive
 
 
 
-            AsyncOperation operation = SceneManager.LoadSceneAsync(1, LoadSceneMode.Additive);
+            AsyncOperation operation = SceneManager.LoadSceneAsync(1, LoadSceneMode.Single);
             // Tell unity to activate the scene soon as its ready
             operation.allowSceneActivation = true;
 
