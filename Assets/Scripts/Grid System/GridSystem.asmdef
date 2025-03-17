@@ -1,0 +1,17 @@
+{
+    "name": "GridSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:53ea79c2203d20147918015872a28343",
+        "GUID:c8b8b832f317d80429cab9246c5d9252"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

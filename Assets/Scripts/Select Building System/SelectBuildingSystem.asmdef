@@ -1,0 +1,17 @@
+{
+    "name": "SelectBuildingSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:53ea79c2203d20147918015872a28343",
+        "GUID:f4282df19995927498ea8e69a5d0c824"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

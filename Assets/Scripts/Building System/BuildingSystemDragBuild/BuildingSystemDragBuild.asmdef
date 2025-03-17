@@ -1,0 +1,19 @@
+{
+    "name": "BuildingSystemDragBuild",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a6a5e4b8330e0e84cbfc9467f004d1ba",
+        "GUID:53ea79c2203d20147918015872a28343",
+        "GUID:c8b8b832f317d80429cab9246c5d9252",
+        "GUID:f0e574d68066368419639c9c7a98c679"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "BuildingData": [
+        {
+            "X": 5,
+            "Y": 6,
+            "BuildingType": {
+                "instanceID": 25844
+            }
+        },
+        {
+            "X": 6,
+            "Y": 9,
+            "BuildingType": {
+                "instanceID": 25796
+            }
+        }
+    ]
+}

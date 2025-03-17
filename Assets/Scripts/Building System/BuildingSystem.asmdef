@@ -1,0 +1,20 @@
+{
+    "name": "BuildingSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:53ea79c2203d20147918015872a28343",
+        "GUID:a6a5e4b8330e0e84cbfc9467f004d1ba",
+        "GUID:c8b8b832f317d80429cab9246c5d9252",
+        "GUID:56bd5b0738a368144a8a2e51f992c8d1",
+        "GUID:7ec3ff13a09bf284b972f67587fb281e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
