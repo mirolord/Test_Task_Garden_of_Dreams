@@ -32,11 +32,11 @@ namespace Heathen.BootstrapExample.Additive
             LoadingScreenDisplay.Showing = true;
 
             Debug.Log("Waiting for 3 ...");
-            yield return new WaitForSeconds(1f);
+            //yield return new WaitForSeconds(1f);
 
             //LoadingScreenDisplay.Progress = 0.33f;
             Debug.Log("Waiting for 2 ...");
-            yield return new WaitForSeconds(1f);
+            //yield return new WaitForSeconds(1f);
 
             //LoadingScreenDisplay.Progress = 0.66f;
             Debug.Log("Waiting for 1 ...");
