@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 
 public class InputHandler : MonoBehaviour
 {
-  [SerializeField] private InputAction _mousePosition;
+	  [SerializeField] private InputAction _mousePosition;
 	[SerializeField] private InputAction _leftMouseClick;
 
 	public bool GetLeftButtonDown() => _leftMouseClick.triggered && _leftMouseClick.ReadValue<float>() > 0;
